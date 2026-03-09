@@ -12,6 +12,13 @@ VidBox is a full-featured download manager for social media content. Users paste
 - **Instagram, TikTok, Facebook, Twitter/X, Vimeo** — powered by **RapidAPI**
 
 ---
+>   <img src="ScreenShots/home.jpg" width="200"/>
+>   <img src="ScreenShots/darkhome.jpg" width="200"/>
+>   <img src="ScreenShots/downloadpopup.jpg" width="200"/>
+>   <img src="ScreenShots/downloadscreen.jpg" width="200"/>
+>   <img src="ScreenShots/down.jpg" width="200"/>
+
+
 
 ## ✨ Features
 
